@@ -1,0 +1,31 @@
+
+BODY {
+scrollbar-face-color: #5FACD8;
+scrollbar-shadow-color: #689cd0;
+scrollbar-highlight-color: #F1F2F4;
+scrollbar-3dlight-color: #000000;
+scrollbar-darkshadow-color:#000000;
+scrollbar-arrow-color: #000000;
+
+}
+
+A  {
+	color : Navy;
+	text-decoration : underline;
+}
+
+A:Visited  {
+	color : Navy;
+	text-decoration : underline;
+}
+
+A:Active  {
+	color : Navy;
+	text-decoration : underline;
+}
+
+A:Hover  {
+	color : White;
+	text-decoration : none;
+	background-color: #6699CC;
+}
